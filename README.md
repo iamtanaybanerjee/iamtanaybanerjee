@@ -2,19 +2,23 @@
 
 I'm a **Full Stack Engineer** who loves building scalable systems that work *really* well. I enjoy diving deep into backend architecture, designing microservices, and making things reliable, secure, and fast.
 
-### 🔧 Current Focus
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### 🔧 Current Focus
 - Building **Microservices Architecture**
 - Designing **JWT-based Backend Systems**
 - Working with **SQL databases** & writing **robust tests**
 
-### 🛠️ Tech Stack
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 
-#### Languages  
+#### 🛠️ Tech Stack
+
+##### Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="14"/> JavaScript &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="14"/> Python &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="14"/> Dart
 
-#### Backend  
+##### Backend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="14"/> Node.js &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="14"/> Express &nbsp;
 <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="14"/> JWT &nbsp;
@@ -22,17 +26,21 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="14"/> MongoDB &nbsp;
 <img src="https://avatars.githubusercontent.com/u/82084621?s=200&v=4" alt="Sequelize" width="14"/> Sequelize ORM
 
-#### Frontend & Mobile  
+##### Frontend & Mobile  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="14"/> React &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="14"/> Flutter
 
-#### Testing  
+##### Testing  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="14"/> Jest
 
-### 📝 I Write Here  
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### 📝 I Write Here  
 Catch my thoughts, guides, and lessons learned on [Hashnode](https://iamtanaybanerjee.hashnode.dev/)
 
-### 🌐 Connect with Me  
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/tanaybanerjeedev)
 
-
+> “First, solve the problem. Then, write the code.” — John Johnson
