@@ -2,14 +2,14 @@
 
 I'm a **Full Stack Engineer** who loves building scalable systems that work *really* well. I enjoy diving deep into backend architecture, designing microservices, and making things reliable, secure, and fast.
 
----
+___
 
 ### 🔧 Current Focus
-- Building systems with **Microservices Architecture**
+- Building **Microservices Architecture**
 - Designing **JWT-based Backend Systems**
 - Working with **SQL databases** & writing **robust tests**
 
----
+___
 
 ### 🛠️ Tech Stack
 
@@ -33,16 +33,14 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 #### Testing  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="14"/> Jest
 
+___
 
-
----
-
-### 📝 I Write Here
+### 📝 I Write Here  
 Catch my thoughts, guides, and lessons learned on [Hashnode](https://iamtanaybanerjee.hashnode.dev/)
 
----
+___
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/tanaybanerjeedev)
 
 
