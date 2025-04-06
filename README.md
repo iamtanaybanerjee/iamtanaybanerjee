@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Tanay Banerjee
 
-<!--
-**iamtanaybanerjee/iamtanaybanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Engineer** who loves building scalable systems that work *really* well. I enjoy diving deep into backend architecture, designing microservices, and making things reliable, secure, and fast.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Current Focus
+- Building **Microservices Architecture**
+- Designing **JWT-based Backend Systems**
+- Working with **SQL databases** & writing **robust tests**
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, Python
+- **Backend:** Node.js, Express, JWT, PostgreSQL, MongoDB, Sequelize
+- **Frontend:** React
+- **Testing:** Jest
+
+---
+
+### 📝 I Write Here
+Catch my thoughts, guides, and lessons learned on [Hashnode](https://iamtanaybanerjee.hashnode.dev/)
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tanaybanerjeedev)
+
