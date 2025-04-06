@@ -6,7 +6,7 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work _rea
 
 ### 🔭 Current Focus
 
-- Building **Microservices Architecture**
+- Building systems with **Microservices Architecture**
 - Designing **JWT-based Backend Systems**
 - Working with **SQL databases** & writing **robust tests**
 
@@ -45,4 +45,4 @@ Catch my thoughts, guides, and lessons learned on [Hashnode](https://hashnode.co
 ### 🤝 Connect with Me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanaybanerjeedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanaybanerjeedev)
