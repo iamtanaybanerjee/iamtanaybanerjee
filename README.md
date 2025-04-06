@@ -13,25 +13,25 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 
 ### 🛠️ Tech Stack
 
-####  Languages   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="16"/> JavaScript &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="16"/> Python &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="16"/> Dart
+#### Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="14"/> JavaScript &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="14"/> Python &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="14"/> Dart
 
-####  Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="16"/> Node.js &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="16"/> Express &nbsp;
-<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="16"/> JWT &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="16"/> PostgreSQL &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="16"/> MongoDB &nbsp;
-<img src="https://avatars.githubusercontent.com/u/82084621?s=200&v=4" alt="Sequelize" width="16"/> Sequelize ORM
+#### Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="14"/> Node.js &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="14"/> Express &nbsp;
+<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" height="14"/> JWT &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="14"/> PostgreSQL &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="14"/> MongoDB &nbsp;
+<img src="https://avatars.githubusercontent.com/u/82084621?s=200&v=4" alt="Sequelize" width="14"/> Sequelize ORM
 
-####  Frontend & Mobile  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="16"/> React &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="16"/> Flutter
+#### Frontend & Mobile  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="14"/> React &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="14"/> Flutter
 
-####  Testing  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="16"/> Jest
+#### Testing  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="14"/> Jest
 
 
 
