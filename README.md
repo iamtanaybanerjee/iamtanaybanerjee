@@ -7,7 +7,7 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 - Designing **JWT-based Backend Systems**  
 - Working with **SQL databases** & writing **robust tests**
 
-### Tech Stack
+#### Tech Stack
 
 ##### Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="16"/> JavaScript &nbsp;&nbsp;
