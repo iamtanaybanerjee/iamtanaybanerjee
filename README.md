@@ -14,7 +14,7 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python
 - **Backend:** Node.js, Express, JWT, PostgreSQL, MongoDB, Sequelize
-- **Frontend:** React
+- **Frontend & Mobile:** React, Flutter
 - **Testing:** Jest
 
 ---
