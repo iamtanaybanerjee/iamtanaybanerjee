@@ -5,7 +5,7 @@ I'm a **Full Stack Engineer** who loves building scalable systems that work *rea
 ---
 
 ### 🔧 Current Focus
-- Building **Microservices Architecture**
+- Building backend systems with **Microservices Architecture**
 - Designing **JWT-based Backend Systems**
 - Working with **SQL databases** & writing **robust tests**
 
