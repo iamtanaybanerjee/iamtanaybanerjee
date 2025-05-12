@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tanay Banerjee
 
-I'm a Full-Stack Engineer who loves building scalable systems that work really well. I enjoy diving deep into backend architecture, designing microservices, and making things reliable, secure, and fast.
+I'm a Full-Stack Engineer who loves building scalable systems that work really well. I enjoy diving deep into backend architecture and making things reliable, secure, and fast.
 
 ---
 
