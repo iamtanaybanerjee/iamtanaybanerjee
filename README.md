@@ -8,7 +8,7 @@ I'm a Backend Engineer who loves building scalable systems that work really well
 
 - Building systems with **Microservices Architecture**
 - Designing **JWT-based Backend Systems**
-- Working with **SQL databases** & writing **robust tests**
+- Working with **SQL and NoSQL databases** & writing **robust tests**
 
 ---
 
