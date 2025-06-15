@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tanay Banerjee
 
-I'm a Full-Stack Engineer who loves building scalable systems that work really well. I enjoy diving deep into backend architecture and making things reliable, secure, and fast.
+I'm a Backend Engineer who loves building scalable systems that work really well. I enjoy diving deep into backend architecture and making things reliable, secure, and fast.
 
 ---
 
@@ -16,6 +16,7 @@ I'm a Full-Stack Engineer who loves building scalable systems that work really w
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### **Backend**
@@ -25,6 +26,8 @@ I'm a Full-Stack Engineer who loves building scalable systems that work really w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-1A73E8?style=for-the-badge&logo=oauth&logoColor=white)
 
 
